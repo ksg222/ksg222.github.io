@@ -43,3 +43,12 @@ Markdown은 html보다 훨씬 간편하게 웹 상 문서를 작성할 수 있�
 1. 첫번째
 2. 두번째
 3. 세번째
+
+<br/>
+\`\`\` 으로 코드 작성
+```
+public class HelloWorld
+    public static void main(String[] args){
+        System.out.println("Hello World")
+    }
+```
